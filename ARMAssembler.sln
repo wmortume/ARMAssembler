@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARMAssembler", "ARMAssembler\ARMAssembler.csproj", "{EEA8C831-3932-4E48-9A88-B4B632201EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA8C831-3932-4E48-9A88-B4B632201EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA8C831-3932-4E48-9A88-B4B632201EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA8C831-3932-4E48-9A88-B4B632201EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA8C831-3932-4E48-9A88-B4B632201EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D047EC5C-08E4-4996-9945-75A89CA83DD2}
+	EndGlobalSection
+EndGlobal
